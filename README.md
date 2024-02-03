@@ -1,4 +1,7 @@
-### Hi there 👋
+### About me:
+
+I'm a Computer Science and Art History major at Boston College. 
+In my free time, I practice animation with ProCreate and make pottery. 
 
 <!--
 **boydlm/boydlm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

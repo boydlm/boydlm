@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1>Hi there, I'm Leah!</h1>
 
-<!--
-**boydlm/boydlm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Boston Rat Tracker</b>
+  - [Click here to view map](https://www.bostonrattracker.com/)
+  - [Click here to view repo](https://github.com/boydlm/RatTracker)
+- <b>Microsoft Sentinel Security Information and Event Management (SIEM)</b>
+  - [Click here to view repo](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Connect with me:</h2> 
+  - [LinkedIn](https://www.linkedin.com/in/leah-boyd-3120651b5/)
+

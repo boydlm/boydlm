@@ -3,11 +3,10 @@
 <h2>Projects:</h2>
 
 - <b>Boston Rat Tracker</b>
-  - [Click here to view map](https://www.bostonrattracker.com/)
-  - [Click here to view repo](https://github.com/boydlm/RatTracker)
+  - <a href="https://www.bostonrattracker.com/">Click here to view map</a>
+  - <a href="https://github.com/boydlm/RatTracker">Click here to view repo</a>
 - <b>Microsoft Sentinel Security Information and Event Management (SIEM)</b>
-  - [Click here to view repo]<b>
+  - <a href="https://github.com/link-to-your-repo">Click here to view repo</a>
 
 <h2>Connect with me:</h2> 
-  - [LinkedIn](https://www.linkedin.com/in/leah-boyd-3120651b5/)
-
+<a href="https://www.linkedin.com/in/leah-boyd-3120651b5/">LinkedIn</a>

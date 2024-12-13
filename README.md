@@ -3,7 +3,7 @@
 <h2>Projects:</h2>
 
 - <b>Boston Rat Tracker</b>
-  - <a href="https://www.bostonrattracker.com/">Click here to view map</a>
+  - <a href="https://www.bostonrattracker.com/">Click here to view map</a> [domain is currently inactive]
   - <a href="https://github.com/boydlm/RatTracker">Click here to view repo</a>
 - <b>Microsoft Sentinel Security Information and Event Management (SIEM)</b>
   - <a href="https://github.com/boydlm/Microsoft-Sentinel-SIEM">Click here to view repo</a>
